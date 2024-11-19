@@ -1,0 +1,7 @@
+header {
+    display: flex;
+    background-color: #ededed;
+    height: 100px;
+    gap: 10px;
+    justify-content: space-around;
+}
